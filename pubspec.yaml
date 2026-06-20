@@ -2,7 +2,7 @@ name: bangla_vocabulary
 description: "Learn English vocabulary daily with Bangla meanings and pronunciation."
 publish_to: 'none'
 
-version: 1.0.1+2
+version: 1.0.1+4
 
 environment:
   sdk: ^3.5.0
